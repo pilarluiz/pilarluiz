@@ -1,4 +1,4 @@
-### hello world!
+### Hello World!
 
 <!--
 **pilarluiz/pilarluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a computer engineer interested in the interesection of hardware and software, specifically computer architecture. I've worked in industry across computer architecture, software engineering and robotics. 
+
+I am currently getting my <b>MS in Electrical and Computer Engineering</b> at the University of Illinois Urbana-Champaign. I recieved my <b>BS in Computer Engineering and Computer Science</b> from the University of Southern California.
