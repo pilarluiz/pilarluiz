@@ -1,4 +1,4 @@
-### Hello World!
+<!-- ### Hello World! -->
 
 <!--
 **pilarluiz/pilarluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm interested in computer architecture.
-
-Note: Most of my current projects are private, as they are related to industry or school. 
+hello world!
